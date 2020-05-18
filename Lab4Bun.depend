@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1589765359 source:c:\users\tavi\desktop\oop\lab4bun\apothekeapp.cpp
+	"UI.h"
+	"Tests.h"
+	<iostream>
+
+1589759180 c:\users\tavi\desktop\oop\lab4bun\ui.h
+	"Controller.h"
+
+1589759815 c:\users\tavi\desktop\oop\lab4bun\controller.h
+	"Repository.h"
+
+1589794652 c:\users\tavi\desktop\oop\lab4bun\repository.h
+	<vector>
+	"Medikament.h"
+
+1589759180 c:\users\tavi\desktop\oop\lab4bun\medikament.h
+	<string>
+
+1589758109 c:\users\tavi\desktop\oop\lab4bun\tests.h
+
+1589758109 source:c:\users\tavi\desktop\oop\lab4bun\controller.cpp
+	"Controller.h"
+	<string>
+	<iostream>
+
+1589760208 source:c:\users\tavi\desktop\oop\lab4bun\medikament.cpp
+	"Medikament.h"
+
+1589800212 source:c:\users\tavi\desktop\oop\lab4bun\repository.cpp
+	"Repository.h"
+	<iostream>
+	<vector>
+	"Medikament.h"
+	<algorithm>
+
+1589765204 source:c:\users\tavi\desktop\oop\lab4bun\tests.cpp
+	<cassert>
+	"Medikament.h"
+	"Repository.h"
+	<iostream>
+	"Tests.h"
+
+1589800320 source:c:\users\tavi\desktop\oop\lab4bun\ui.cpp
+	"UI.h"
+	"Repository.h"
+	"Controller.h"
+	<iostream>
+
